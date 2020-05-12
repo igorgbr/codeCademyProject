@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 5px;
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    background-image: url('/DevProjects/resources/img/pattern.jpeg');
+    height: 110px;
+    text-align: center;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 100px;
+    color: khaki;
+}
+
+#top-brush {
+    background-color: mediumspringgreen;
+}
+#top-frame{
+    background-color: lightcoral;
+}
+#top-paint{
+    background-color: skyblue;
+}
+
+.top-sections {
+    height: 35px;
+}
+
+.top-sections h1{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+section {
+    margin-left: -40px;
+}
+
+section span{
+    color:blue;
+    font-weight: bold;;
+    
+}
